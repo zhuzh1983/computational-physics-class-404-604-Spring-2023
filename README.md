@@ -17,7 +17,7 @@ As recommended above, [GitHub Desktop](https://desktop.github.com/) provides an 
 
 Alternatively, if you have `git` installed, via the command line interface (CLI) or terminal, you can clone your fork of this repo to your current local directory (see [`pwd`](https://en.wikipedia.org/wiki/Pwd)) using,
 ```bash
-$ git clone https://github.com/$USER/computational-physics-class-404-604-Spring-2022.git
+$ git clone https://github.com/$USER/computational-physics-class-404-604-Spring-2023.git
 ```
 where `$USER` is your GitHub username.
 
